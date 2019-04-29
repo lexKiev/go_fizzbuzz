@@ -8,7 +8,7 @@ func main() {
 		if result == "" {
 			fmt.Println(i)
 		} else {
-			fmt.Println(checkValue(i))
+			fmt.Println(result)
 		}
 	}
 }
