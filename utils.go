@@ -2,8 +2,6 @@ package main
 
 func checkValue(i int) (value string) {
 
-
-
 	if i%3 == 0 {
 		value += "Fizz"
 	}
